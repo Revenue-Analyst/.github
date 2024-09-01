@@ -42,7 +42,7 @@ RAVA is an Android application designed to extract, analyze, and visualize mobil
 ## Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/RAVA.git
+   git clone https://github.com/Revenue-Analyst/rava_xml.git
    ```
 2. Open the project in Android Studio
 3. Sync the project with Gradle files
